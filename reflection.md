@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jack Kester
+Sudent Email:  jwkester@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+Throughout this assignment, the two biggest things I learned were dataclasses, and the scraping methods for finding the next item. Creating your own class was something I didn't know existed but now with the menuitem example, I understand how to use them and the different parameters you can put in them. Additionally, using the query_selector("~ *") in this assignment bettered my understanding of getting to the desired item of the css code.My tests weren't running so I couldn't check if my code was fully operational. Additionally, when I went to run the code there was an issue with the Menuitem dataclass.
